@@ -1,1 +1,3 @@
-# Odin-JavaScript-Project-CV-Application
+# JavaScript Project: CV Application
+
+### [Guideline](https://www.theodinproject.com/lessons/javascript-cv-application)
